@@ -22,7 +22,7 @@ Print A~Z and '\n'.
 ## SEE ALSO
 [Wikipedia](https://ja.wikipedia.org/wiki/Brainfuck)
 ## Author  
-丸尾孝光(TAkamitsu Maruo)  
+丸尾孝光(Takamitsu Maruo)  
     Twitter:[@schumit_t](https://twitter.com/schumit_t)  
     GitHub:[@TakamitsuMaruo](https://github.com/TakamitsuMaruo)  
     Qiita:[@Schumitt](https://qiita.com/Schmitt)  
