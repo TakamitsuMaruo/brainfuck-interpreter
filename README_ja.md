@@ -17,6 +17,8 @@ A~Zと改行コード(\n)を出力します。
 `$ win-32 sample.bf`  
 `$ win-64 sample.bf`  
 
+## SEE ALSO
+[Wikipedia](https://ja.wikipedia.org/wiki/Brainfuck)
 ## 作者  
 丸尾孝光  
     Twitter:[@schumit_t](https://twitter.com/schumit_t)  
