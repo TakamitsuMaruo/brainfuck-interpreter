@@ -4,8 +4,8 @@
 Brainfxxkのインタプリタです。  
 
 ## 利用方法   
-`win-32 <your-script>`  
-`win-64 <your-script>`  
+`$ win-32 <your-script>`  
+`$ win-64 <your-script>`  
 
 
 # サンプルソース  
@@ -14,8 +14,8 @@ Brainfxxkのインタプリタです。
 A~Zと改行コード(\n)を出力します。
 
 ## 利用方法  
-`win-32 sample.bf`  
-`win-64 sample.bf`  
+`$ win-32 sample.bf`  
+`$ win-64 sample.bf`  
 
 ## 作者  
 丸尾孝光  
